@@ -96,7 +96,7 @@ clean_previous_builds
 build_app
 
 # Descomente as linhas abaixo se necessário:
-# sign_app
-# create_dmg
+sign_app
+create_dmg
 
 echo "✅ Build concluído! App disponível em: $OUTPUT_APP"
