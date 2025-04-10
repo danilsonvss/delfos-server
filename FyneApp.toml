@@ -1,0 +1,8 @@
+Website = "https://seven.app.br"
+
+[Details]
+  Icon = "icon.png"
+  Name = "Delfos"
+  ID = "br.app.seven.delfos"
+  Version = "1.0.0"
+  Build = 10
